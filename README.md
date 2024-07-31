@@ -3,7 +3,6 @@
 <br/>
 PrepBot is a personal project with the help of online tutorials aimed at gaining experience  with natural language processing techniques and chatbpts. This project was developed in three iterations, each with progressing complexity and effectiveness. PrepBot specializes in offering interview advice for those entering the field of computer science. <br/>
 # Project Iterations 
-<br/>
 **Iteration 1: Basic Chatbot with difflib** <br/>
 In the first iteration, PrepBot was created using the built-in Python library difflib. This version of the chatbot saved user prompts in a json file so it could learn over time. This simple approach allowed for basic string matching and provided a foundation for further development with NLP. This project was created from the tutorial found here: https://www.youtube.com/watch?v=CkkjXTER2KE <br/>
 <br/>
